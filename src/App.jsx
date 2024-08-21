@@ -12,8 +12,8 @@ function App() {
       element: 
       <>
         <Navbar/>
-        <HolyTrio/>
-        <About/>
+        {/* <HolyTrio/>
+        <About/> */}
         <Footer/>
       </>
       
