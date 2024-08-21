@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import { Link } from "react-router-dom";
 import "./styles/Navbar.css";
-import LogoImg from "../../assets/images/Emblem-Ramakrishna-Mission-Transparent (1).png";
+import LogoImg from "../../assets/images/Logo.png";
 
 const Navbar = () => {
     let menuref = useRef(null);
