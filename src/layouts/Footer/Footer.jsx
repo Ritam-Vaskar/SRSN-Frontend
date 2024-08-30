@@ -8,7 +8,7 @@ import {
     FaMapMarkerAlt
 } from "react-icons/fa";
 import "./styles/Footer.css";
-import footLogo from "../../assets/images/Emblem-Ramakrishna-Mission-Transparent (1).png";
+import footLogo from "../../assets/images/Logo.png";
 
 const Footer = () => {
     return (
