@@ -5,6 +5,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Footer from './layouts/Footer/Footer';
 import About from './sections/About/About';
 import HolyTrio from './sections/HolyTrio/HolyTrio';
+import Contact from './sections/Contact/Contact';
 function App() {
   const router = createBrowserRouter([
     {
@@ -14,6 +15,7 @@ function App() {
         <Navbar/>
         <HolyTrio/>
         <About/>
+        <Contact/>
         <Footer/>
       </>
       
