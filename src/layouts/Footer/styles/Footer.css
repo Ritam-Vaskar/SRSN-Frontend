@@ -149,7 +149,7 @@
     width: 5rem;
     height:5rem;
     border-radius: 5px;
-    background-color: white;
+    
   }
   
   .comp-logo{
@@ -182,7 +182,6 @@
  .fab_logo{
    width: 1.5rem;
    height: 1.5rem;
-   background-color: white;
    border-radius: 2px;
  }
 .social-icon {
